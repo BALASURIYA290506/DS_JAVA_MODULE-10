@@ -15,7 +15,7 @@ To design and implement a java program to perform Breadth-First Search (BFS) tra
 10. Stop the program.
 
 ## Program:
-```
+```java
 
 Program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph
 
