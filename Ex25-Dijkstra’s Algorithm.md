@@ -14,9 +14,11 @@ To design and implement a java program that helps an electric vehicle (EV) find 
 9. End the program.   
 
 ## Program:
-```
+
+```java
 
 Program to find the Fastest Route to a Charging Station using Dijkstra’s Algorithm
+
 
 import java.util.*;
 
