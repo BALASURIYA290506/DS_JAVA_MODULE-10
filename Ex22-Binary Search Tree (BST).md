@@ -13,7 +13,7 @@ To design and implement java program that constructs a Binary Search Tree (BST) 
 8.  Stop the program.   
 
 ## Program:
-```
+```java
 
 Program to constructs a Binary Search Tree (BST) using given Book IDs 
 
